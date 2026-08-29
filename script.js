@@ -53,9 +53,9 @@ const galleries = {
 
     "portrait-photography": [
 
-        "image-01.jpg",
-        "image-02.jpg",
-        "image-03.jpg",
+         "01.jpg",
+        "02.jpg",
+        "03.jpg",
         "image-04.jpg"
 
     ],
